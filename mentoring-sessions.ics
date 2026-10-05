@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//talkwithkids.co.il//training sessions//HE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:tk-mentoring-20261005@talkwithkids.co.il
+DTSTAMP:20261005T111620Z
+DTSTART:20261005T173000Z
+DTEND:20261005T190000Z
+SUMMARY:מפגש ליווי מקצועי-עסקי עם חן קלימיאן
+DESCRIPTION:מפגש הליווי החודשי לתוכנית ההכשרה. קישור לזום: https://us02web.zoom.us/j/85712455892
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/85712455892
+END:VEVENT
+BEGIN:VEVENT
+UID:tk-mentoring-20261102@talkwithkids.co.il
+DTSTAMP:20261005T111620Z
+DTSTART:20261102T183000Z
+DTEND:20261102T200000Z
+SUMMARY:מפגש ליווי מקצועי-עסקי עם חן קלימיאן
+DESCRIPTION:מפגש הליווי החודשי לתוכנית ההכשרה. קישור לזום: https://us02web.zoom.us/j/85712455892
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/85712455892
+END:VEVENT
+BEGIN:VEVENT
+UID:tk-mentoring-20261207@talkwithkids.co.il
+DTSTAMP:20261005T111620Z
+DTSTART:20261207T183000Z
+DTEND:20261207T200000Z
+SUMMARY:מפגש ליווי מקצועי-עסקי עם חן קלימיאן
+DESCRIPTION:מפגש הליווי החודשי לתוכנית ההכשרה. קישור לזום: https://us02web.zoom.us/j/85712455892
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/85712455892
+END:VEVENT
+BEGIN:VEVENT
+UID:tk-mentoring-20270104@talkwithkids.co.il
+DTSTAMP:20261005T111620Z
+DTSTART:20270104T183000Z
+DTEND:20270104T200000Z
+SUMMARY:מפגש ליווי מקצועי-עסקי עם חן קלימיאן
+DESCRIPTION:מפגש הליווי החודשי לתוכנית ההכשרה. קישור לזום: https://us02web.zoom.us/j/85712455892
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/85712455892
+END:VEVENT
+BEGIN:VEVENT
+UID:tk-mentoring-20270201@talkwithkids.co.il
+DTSTAMP:20261005T111620Z
+DTSTART:20270201T183000Z
+DTEND:20270201T200000Z
+SUMMARY:מפגש ליווי מקצועי-עסקי עם חן קלימיאן
+DESCRIPTION:מפגש הליווי החודשי לתוכנית ההכשרה. קישור לזום: https://us02web.zoom.us/j/85712455892
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/85712455892
+END:VEVENT
+BEGIN:VEVENT
+UID:tk-mentoring-20270301@talkwithkids.co.il
+DTSTAMP:20261005T111620Z
+DTSTART:20270301T183000Z
+DTEND:20270301T200000Z
+SUMMARY:מפגש ליווי מקצועי-עסקי עם חן קלימיאן
+DESCRIPTION:מפגש הליווי החודשי לתוכנית ההכשרה. קישור לזום: https://us02web.zoom.us/j/85712455892
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/85712455892
+END:VEVENT
+BEGIN:VEVENT
+UID:tk-mentoring-20270405@talkwithkids.co.il
+DTSTAMP:20261005T111620Z
+DTSTART:20270405T173000Z
+DTEND:20270405T190000Z
+SUMMARY:מפגש ליווי מקצועי-עסקי עם חן קלימיאן
+DESCRIPTION:מפגש הליווי החודשי לתוכנית ההכשרה. קישור לזום: https://us02web.zoom.us/j/85712455892
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/85712455892
+END:VEVENT
+BEGIN:VEVENT
+UID:tk-mentoring-20270503@talkwithkids.co.il
+DTSTAMP:20261005T111620Z
+DTSTART:20270503T173000Z
+DTEND:20270503T190000Z
+SUMMARY:מפגש ליווי מקצועי-עסקי עם חן קלימיאן
+DESCRIPTION:מפגש הליווי החודשי לתוכנית ההכשרה. קישור לזום: https://us02web.zoom.us/j/85712455892
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/85712455892
+END:VEVENT
+BEGIN:VEVENT
+UID:tk-mentoring-20270607@talkwithkids.co.il
+DTSTAMP:20261005T111620Z
+DTSTART:20270607T173000Z
+DTEND:20270607T190000Z
+SUMMARY:מפגש ליווי מקצועי-עסקי עם חן קלימיאן
+DESCRIPTION:מפגש הליווי החודשי לתוכנית ההכשרה. קישור לזום: https://us02web.zoom.us/j/85712455892
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/85712455892
+END:VEVENT
+BEGIN:VEVENT
+UID:tk-mentoring-20270705@talkwithkids.co.il
+DTSTAMP:20261005T111620Z
+DTSTART:20270705T173000Z
+DTEND:20270705T190000Z
+SUMMARY:מפגש ליווי מקצועי-עסקי עם חן קלימיאן
+DESCRIPTION:מפגש הליווי החודשי לתוכנית ההכשרה. קישור לזום: https://us02web.zoom.us/j/85712455892
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/85712455892
+END:VEVENT
+BEGIN:VEVENT
+UID:tk-mentoring-20270802@talkwithkids.co.il
+DTSTAMP:20261005T111620Z
+DTSTART:20270802T173000Z
+DTEND:20270802T190000Z
+SUMMARY:מפגש ליווי מקצועי-עסקי עם חן קלימיאן
+DESCRIPTION:מפגש הליווי החודשי לתוכנית ההכשרה. קישור לזום: https://us02web.zoom.us/j/85712455892
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/85712455892
+END:VEVENT
+BEGIN:VEVENT
+UID:tk-mentoring-20270906@talkwithkids.co.il
+DTSTAMP:20261005T111620Z
+DTSTART:20270906T173000Z
+DTEND:20270906T190000Z
+SUMMARY:מפגש ליווי מקצועי-עסקי עם חן קלימיאן
+DESCRIPTION:מפגש הליווי החודשי לתוכנית ההכשרה. קישור לזום: https://us02web.zoom.us/j/85712455892
+LOCATION:Zoom
+URL:https://us02web.zoom.us/j/85712455892
+END:VEVENT
+END:VCALENDAR
