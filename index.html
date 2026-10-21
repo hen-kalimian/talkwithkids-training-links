@@ -215,6 +215,7 @@
       var toks=v.split(/s+/).filter(Boolean).map(function(t){return stem(t);});
       var out=[]; L.forEach(function(i){ var sc=0, ok=true; toks.forEach(function(forms){ var best=0; forms.forEach(function(f){ if(f.length<2) return; if(i._w.some(function(w){return w.indexOf(f)===0;})) best=Math.max(best,3); else if(i._t.indexOf(f)>=0) best=Math.max(best,1); }); if(!best) ok=false; sc+=best; }); if(ok){ if(norm(i.title).indexOf(v)>=0) sc+=3; if(i.type==='section') sc+=1; if(i.program==='בונוסים') sc+=3; out.push([sc,i]); } });
       out.sort(function(a,b){return b[0]-a[0];});
+      var seen={}; out=out.filter(function(o){var k=o[1].program+'|'+o[1].section; if(seen[k]) return false; seen[k]=1; return true;});
       res.innerHTML=out.length?out.slice(0,8).map(function(o){var i=o[1];return '<li><a href="'+esc(i.url)+'" target="_blank" rel="noopener"><div class="t">'+esc(i.title)+'</div><div class="w">'+esc(i.program)+(i.section&&i.section!==i.title?' › '+esc(i.section):'')+' · לחצי כדי לפתוח את התוכנית, ושם לבחור את הפרק</div></a></li>';}).join(''):'<li class="none">לא נמצא. אפשר לנסות מילה אחרת.</li>';
     }
     q.addEventListener('input',run);
