@@ -154,6 +154,18 @@
     .footer-card{font-size:11.5px;line-height:1.7;}
     .footer-note{font-size:10.5px;}
   }
+
+  /* compact top button so search fits on first screen (Hen, 4.11.26) */
+  #opening-video{min-height:0 !important;height:60px !important;padding-top:6px;padding-bottom:6px;}
+  .grid{grid-template-rows:60px;}
+  @media (max-width:520px){
+    body{padding-top:14px;}
+    .page-sub{margin-bottom:10px;}
+    #opening-video{height:48px !important;gap:10px !important;}
+    .grid{grid-template-rows:48px;margin-bottom:14px;}
+    .search-card{padding:12px 14px;margin-bottom:14px;}
+    .search-card .hint{margin-bottom:8px;}
+  }
 </style>
 <style id="noscrollbar">html,body{scrollbar-width:none;-ms-overflow-style:none}html::-webkit-scrollbar,body::-webkit-scrollbar{display:none;width:0;height:0}</style></head>
 <body>
